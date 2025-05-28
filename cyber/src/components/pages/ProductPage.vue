@@ -79,7 +79,7 @@
       
       <div class="details">
         <div class="display-specs">
-          <h2>Display</h2>
+          <h2>Deteils</h2>
           <p>Just as a book is judged by its cover, the first thing you notice when you pick up a modern smartphone is the display. Nothing surprising, because advanced technologies allow you to practically level the display frames and cutouts for the front camera and speaker, leaving no room for bold design solutions. And how good that in such realities Apple everything is fine with displays. Both critics and mass consumers always praise the quality of the picture provided by the products of the Californian brand. And last year's 6.7-inch Retina panels, which had ProMotion, caused real admiration for many.</p>
           <div class="spec-grid">
             <div class="specs-item">

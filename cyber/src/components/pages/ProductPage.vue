@@ -223,7 +223,6 @@ export default {
           quantity: this.quantity
         })
         
-        // Simple notification (you can replace with toast if needed)
         alert(`${this.product.name} added to cart!`)
       } catch (error) {
         console.error('Error adding to cart:', error)
